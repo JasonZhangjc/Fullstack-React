@@ -1,4 +1,4 @@
-React Fullstack with node/express, PostgreSQL and AWS
+React Fullstack with node.js, Eexpress, PostgreSQL and AWS
 
 Tools needed:
 - node.js
