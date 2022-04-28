@@ -15,3 +15,6 @@ Packages/libraries needed:
 
 Some useful commands:
 - 'npm start devstart' in the 'Server' folder
+
+TODO:
+- PSQL account registration
