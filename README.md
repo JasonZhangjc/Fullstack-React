@@ -13,8 +13,13 @@ Packages/libraries needed:
 - helmet
 - pg
 
-Some useful commands:
+Some useful commands in VSCODE shell:
 - 'npm start devstart' in the 'Server' folder
 
-TODO:
-- PSQL account registration
+Some useful commands in PSQL shell:
+- common password for PSQL, no username for PSQL
+- 'CREATE DATABASE mydb;' to create db
+- '\c mydb' connect to the db
+- '\dt' to find relations
+- copy and paste all the code in 'schema.sql'
+
